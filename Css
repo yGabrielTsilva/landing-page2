@@ -104,3 +104,64 @@ margin-top:70px ;
 font-family: Arial, Helvetica, sans-serif;
 }
 
+.contt{
+  margin-top: ;
+  background-color: rgba(128, 128, 128, 0.329);
+
+}
+
+.aprende{
+  color: white;
+}
+
+.card {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 550px;
+}
+
+.card img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.card-content {
+    padding: 10px;
+}
+
+/* Estilos do conteúdo do card */
+h2 {
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+p {
+    margin: 0;
+    color: #555;
+}
+
+.vantagens{
+  color: white;
+}
+
+.Criatividade{
+margin-top: 50px;
+color: white;
+border-radius: 10px;
+}
+
+.uva{
+  margin-top: 50px;
+  color: white;
+}
+
+.pera{
+color: white;
+
+}
